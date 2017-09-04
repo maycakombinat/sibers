@@ -8,7 +8,7 @@ Laravel 5.4 использует:
 
 Файл для БД - дамп
 
-	DATABASE.sql
+	SIBERS.sql
 
 Файл конфигурации .env :
 
